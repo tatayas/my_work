@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/Icons">
+        <file>Images_lab4/icon2.ico</file>
+        <file>Images_lab4/icons8-qt-framework-50.png</file>
+    </qresource>
+    <qresource prefix="/ico_buttons">
+        <file>Images_lab4/icons8-крест-64.png</file>
+        <file>Images_lab4/WomenAndDog.jpg</file>
+    </qresource>
+    <qresource lang="ru" prefix="/Translations">
+        <file>lab4_designer_ru_RU.qm</file>
+    </qresource>
+</RCC>
